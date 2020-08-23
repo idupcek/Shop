@@ -1,0 +1,9 @@
+D:\VisualStudio Projects\Github\Shop\Shop\Shop.Domain\bin\Debug\netcoreapp3.1\Shop.Domain.deps.json
+D:\VisualStudio Projects\Github\Shop\Shop\Shop.Domain\bin\Debug\netcoreapp3.1\Shop.Domain.dll
+D:\VisualStudio Projects\Github\Shop\Shop\Shop.Domain\bin\Debug\netcoreapp3.1\Shop.Domain.pdb
+D:\VisualStudio Projects\Github\Shop\Shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.csprojAssemblyReference.cache
+D:\VisualStudio Projects\Github\Shop\Shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.AssemblyInfoInputs.cache
+D:\VisualStudio Projects\Github\Shop\Shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.AssemblyInfo.cs
+D:\VisualStudio Projects\Github\Shop\Shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\Github\Shop\Shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.dll
+D:\VisualStudio Projects\Github\Shop\Shop\Shop.Domain\obj\Debug\netcoreapp3.1\Shop.Domain.pdb
