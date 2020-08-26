@@ -5892,11 +5892,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudio Projects\\Github\\Shop\\Shop\\Shop.UI\\Shop.UI.csproj",
+      "projectUniqueName": "D:\\VisualStudio Projects\\Github\\Shop\\Shop.UI\\Shop.UI.csproj",
       "projectName": "Shop.UI",
-      "projectPath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop\\Shop.UI\\Shop.UI.csproj",
+      "projectPath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop.UI\\Shop.UI.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop\\Shop.UI\\obj\\",
+      "outputPath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop.UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5912,8 +5912,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\VisualStudio Projects\\Github\\Shop\\Shop\\Shop.Application\\Shop.Application.csproj": {
-              "projectPath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop\\Shop.Application\\Shop.Application.csproj"
+            "D:\\VisualStudio Projects\\Github\\Shop\\Shop.Application\\Shop.Application.csproj": {
+              "projectPath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop.Application\\Shop.Application.csproj"
             }
           }
         }

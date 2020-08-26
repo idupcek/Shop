@@ -12,3 +12,17 @@ D:\VisualStudio Projects\Github\Shop\Shop\Shop.Application\obj\Debug\netcoreapp3
 D:\VisualStudio Projects\Github\Shop\Shop\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.csproj.CopyComplete
 D:\VisualStudio Projects\Github\Shop\Shop\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.dll
 D:\VisualStudio Projects\Github\Shop\Shop\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.pdb
+D:\VisualStudio Projects\Github\Shop\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Application.deps.json
+D:\VisualStudio Projects\Github\Shop\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Application.dll
+D:\VisualStudio Projects\Github\Shop\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Application.pdb
+D:\VisualStudio Projects\Github\Shop\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Database.dll
+D:\VisualStudio Projects\Github\Shop\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Domain.dll
+D:\VisualStudio Projects\Github\Shop\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Database.pdb
+D:\VisualStudio Projects\Github\Shop\Shop.Application\bin\Debug\netcoreapp3.1\Shop.Domain.pdb
+D:\VisualStudio Projects\Github\Shop\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.csprojAssemblyReference.cache
+D:\VisualStudio Projects\Github\Shop\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.AssemblyInfoInputs.cache
+D:\VisualStudio Projects\Github\Shop\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.AssemblyInfo.cs
+D:\VisualStudio Projects\Github\Shop\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\Github\Shop\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.csproj.CopyComplete
+D:\VisualStudio Projects\Github\Shop\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.dll
+D:\VisualStudio Projects\Github\Shop\Shop.Application\obj\Debug\netcoreapp3.1\Shop.Application.pdb

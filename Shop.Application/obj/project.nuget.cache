@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VW9GqO8Hp4AA8lH7lcZQF27yPmxLT0pQAOIkTIiaG/2N3DNI5HOkRNVqywj4iOoNnKX1/lWTF1fUVqIlKbODqA==",
+  "dgSpecHash": "R4cLFA988NPC9pMZPI+yCJIsFtWzmukMztq6T9HZjC1EuVaxkoq9Mrv94Hofwdqja1CXg1ugQqc+k4nGlolvHg==",
   "success": true,
-  "projectFilePath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop\\Shop.Application\\Shop.Application.csproj",
+  "projectFilePath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop.Application\\Shop.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.7\\microsoft.aspnetcore.cryptography.internal.3.1.7.nupkg.sha512",
     "C:\\Users\\Ivan\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.7\\microsoft.aspnetcore.cryptography.keyderivation.3.1.7.nupkg.sha512",

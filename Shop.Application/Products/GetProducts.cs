@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Shop.Application.GetProducts
+namespace Shop.Application.Products
 {
     public class GetProducts
     {
@@ -21,13 +21,12 @@ namespace Shop.Application.GetProducts
                 Value = $"$ {p.Value.ToString("N2")}" // 1100.50 => 1,100.50 => $ 1,100.50
             }); 
         
+        public class ProductViewModel
+        {
+            public string Name { get; set; }
+            public string Description { get; set; }
+            public string Value { get; set; }
+        }
     }
 
-    public class ProductViewModel
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Description { get; set; }
-        public string Value { get; set; }
-    }
 }

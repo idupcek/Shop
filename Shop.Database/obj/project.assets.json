@@ -5893,11 +5893,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudio Projects\\Github\\Shop\\Shop\\Shop.Database\\Shop.Database.csproj",
+      "projectUniqueName": "D:\\VisualStudio Projects\\Github\\Shop\\Shop.Database\\Shop.Database.csproj",
       "projectName": "Shop.Database",
-      "projectPath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop\\Shop.Database\\Shop.Database.csproj",
+      "projectPath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop.Database\\Shop.Database.csproj",
       "packagesPath": "C:\\Users\\Ivan\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop\\Shop.Database\\obj\\",
+      "outputPath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop.Database\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ivan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5913,8 +5913,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\VisualStudio Projects\\Github\\Shop\\Shop\\Shop.Domain\\Shop.Domain.csproj": {
-              "projectPath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop\\Shop.Domain\\Shop.Domain.csproj"
+            "D:\\VisualStudio Projects\\Github\\Shop\\Shop.Domain\\Shop.Domain.csproj": {
+              "projectPath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop.Domain\\Shop.Domain.csproj"
             }
           }
         }
