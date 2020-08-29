@@ -13,14 +13,21 @@ namespace Shop.Application.ProductAdmin
             _ctx = ctx;
         }
 
-        public async Task Do(ProductViewModel vm)
+        public async Task<Response> Do(Request request)
         {
-
-
             await _ctx.SaveChangesAsync();
+            return new Response();
         }
-        public class ProductViewModel
+        public class Request
         {
+            public string Name { get; set; }
+            public string Description { get; set; }
+            public decimal Value { get; set; }
+        }
+
+        public class Response
+        {
+            public int Id { get; set; }
             public string Name { get; set; }
             public string Description { get; set; }
             public decimal Value { get; set; }

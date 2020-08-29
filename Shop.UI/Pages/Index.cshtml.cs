@@ -17,11 +17,11 @@ namespace Shop.UI.Pages
             _ctx = ctx;
         }
 
-        public IEnumerable<GetProduct.ProductViewModel> Products { get; set; }
+        public IEnumerable<GetProducts.ProductViewModel> Products { get; set; }
        
         public void OnGet()
         {
-            Products = (IEnumerable<GetProduct.ProductViewModel>)new GetProducts(_ctx).Do();
+            Products = new GetProducts(_ctx).Do();
         }
 
     }

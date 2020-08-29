@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.UI", "Shop.UI\Shop.UI.csproj", "{9F708091-4AC2-4BE9-A8B8-33D8422FD65B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.UI", "Shop.UI\Shop.UI.csproj", "{9F708091-4AC2-4BE9-A8B8-33D8422FD65B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Domain", "Shop.Domain\Shop.Domain.csproj", "{39CA1FB9-CEE0-4D02-ACB2-49F8EAB8D410}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Domain", "Shop.Domain\Shop.Domain.csproj", "{39CA1FB9-CEE0-4D02-ACB2-49F8EAB8D410}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Application", "Shop.Application\Shop.Application.csproj", "{027B12F4-D79E-4531-B25D-69C128F3EEA1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Application", "Shop.Application\Shop.Application.csproj", "{027B12F4-D79E-4531-B25D-69C128F3EEA1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shop.Database", "Shop.Database\Shop.Database.csproj", "{26E4FA03-4D94-4FDE-B98C-A807F9C339A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.Database", "Shop.Database\Shop.Database.csproj", "{26E4FA03-4D94-4FDE-B98C-A807F9C339A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
