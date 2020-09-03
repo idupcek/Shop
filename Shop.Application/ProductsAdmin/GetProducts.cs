@@ -18,7 +18,6 @@ namespace Shop.Application.ProductsAdmin
             { 
                 Id = p.Id,
                 Name = p.Name, 
-                Description = p.Description, 
                 Value = p.Value 
             }); 
         
@@ -26,7 +25,6 @@ namespace Shop.Application.ProductsAdmin
         {
             public int Id { get; set; }
             public string Name { get; set; }
-            public string Description { get; set; }
             public decimal Value { get; set; }
         }
     }
