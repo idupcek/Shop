@@ -175,3 +175,7 @@ D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.dll
 D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.pdb
 D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.genruntimeconfig.cache
 D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Index.cshtml.g.cs
+D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_AdminLayout.cshtml.g.cs
+D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_ViewStart.cshtml.g.cs
+D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Orders.cshtml.g.cs
+D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Stock.cshtml.g.cs
