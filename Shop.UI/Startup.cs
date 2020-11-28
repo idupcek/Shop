@@ -29,6 +29,8 @@ namespace Shop.UI
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlServer(
                     Configuration.GetConnectionString("DefaultConnection")));
+
+            //services.AddMvc(option => option.EnableEndpointRouting = false);
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -56,6 +58,8 @@ namespace Shop.UI
                 endpoints.MapRazorPages();
                 endpoints.MapControllers();
             });
+
+            //app.UseMvcWithDefaultRoute();
         }
     }
 }

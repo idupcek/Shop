@@ -5911,6 +5911,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
             "D:\\VisualStudio Projects\\Github\\Shop\\Shop.Application\\Shop.Application.csproj": {
               "projectPath": "D:\\VisualStudio Projects\\Github\\Shop\\Shop.Application\\Shop.Application.csproj"
@@ -5926,6 +5927,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
@@ -5952,7 +5954,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

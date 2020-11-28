@@ -2,8 +2,7 @@
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
-using Shop.Application.ProductAdmin;
-using Shop.Application.ProductsAdmin;
+using Shop.Application.Products;
 using Shop.Database;
 
 namespace Shop.UI.Pages
@@ -21,7 +20,7 @@ namespace Shop.UI.Pages
        
         public void OnGet()
         {
-            Products = new GetProducts(_ctx).Do();
+            Products = new GetProducts(_ctx).Do()   ;
         }
 
     }

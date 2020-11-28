@@ -39,14 +39,14 @@ namespace Shop.Application.StockAdmin
         {
             public int ProductId { get; set; }
             public string Description { get; set; }
-            public string Qty { get; set; }
+            public int Qty { get; set; }
         }
 
         public class Response
         {
             public int Id { get; set; }
             public string Description { get; set; }
-            public string Qty { get; set; }
+            public int Qty { get; set; }
         }
     }
 }

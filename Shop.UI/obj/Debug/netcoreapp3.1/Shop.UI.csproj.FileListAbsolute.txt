@@ -88,7 +88,6 @@ D:\VisualStudio Projects\Github\Shop\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.U
 D:\VisualStudio Projects\Github\Shop\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.MvcApplicationPartsAssemblyInfo.cache
 D:\VisualStudio Projects\Github\Shop\Shop.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\VisualStudio Projects\Github\Shop\Shop.UI\bin\Debug\netcoreapp3.1\appsettings.json
-D:\VisualStudio Projects\Github\Shop\Shop.UI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 D:\VisualStudio Projects\Github\Shop\Shop.UI\bin\Debug\netcoreapp3.1\Shop.UI.exe
 D:\VisualStudio Projects\Github\Shop\Shop.UI\bin\Debug\netcoreapp3.1\Shop.UI.deps.json
 D:\VisualStudio Projects\Github\Shop\Shop.UI\bin\Debug\netcoreapp3.1\Shop.UI.runtimeconfig.json
@@ -179,3 +178,5 @@ D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages
 D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\_ViewStart.cshtml.g.cs
 D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Orders.cshtml.g.cs
 D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Admin\Stock.cshtml.g.cs
+D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Shop.UI.styles.css
+D:\VisualStudio Projects\Github\Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Product.cshtml.g.cs
